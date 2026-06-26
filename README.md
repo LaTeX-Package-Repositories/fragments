@@ -1,5 +1,14 @@
 # fragments
 
+This directory contains fragments of TeX code designed to work in the
+environment of LaTeX.  They are made available for the benefit of
+those writing LaTeX classes or packages.
+
+Robin Fairbairns
+
+8th December 1994
+
+
 ## checklab
 
 A patch for the label-checking code
